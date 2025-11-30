@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+
+prog
+
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+*.exe
+*.o
+*.dylib
